@@ -1,0 +1,12 @@
+{
+    "snapshot": "snapshot-id",
+    "user": "ubuntu",
+    "install": "npm install",
+    "terminals": [
+      {
+        "name": "parcel",
+        "command": "cd my-parcel-app && npm run start",
+        "description": "runs the parcel app (port 1234)"
+      }
+    ]
+  }
